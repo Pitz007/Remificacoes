@@ -1,2 +1,4 @@
-void Start (){
+void Start ()
+{
+    Debug.Log("hallo");
 }
